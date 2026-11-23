@@ -81,5 +81,4 @@ jobs:
           name: "دَيني | Dayni v1.0.${{ github.run_number }}"
           body: |
             نسخة Android APK من تطبيق **دَيني | Dayni** لإدارة الديون الشخصية.
-            حمّل ملف `.apk` المرفق وثبّته مباشرة على هاتفك Android.
           files: Dayni-v1.0.${{ github.run_number }}.apk
